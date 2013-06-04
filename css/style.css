@@ -83,16 +83,14 @@ div, section {
 .logo {
     padding-top: 40px;
     text-align: center
-
 }
 
 
-.logo h1 {
+.logo img {
     margin: 0;
     display: inline-block;
     font-size: 55px;
-    padding: 0 0 0 250px;
-    width:260px;
+    padding: 0 0 0 15px;
 }
 
 section.social {
