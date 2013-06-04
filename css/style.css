@@ -112,7 +112,8 @@ section.social iframe, section.social div {
 
 section.social div.left {
     float: left;
-    max-height: 20px
+    max-height: 20px;
+    margin-top: 10px;
 }
 
 section.social div.left div a {
@@ -512,4 +513,29 @@ section.articles {
 }
 
 section.banner {
+}
+
+.article-title-page {
+    font-size: 28px;
+    margin-bottom: 30px;
+    padding-top: 120px;
+}
+
+div.article-description-page p {
+    padding-bottom: 15px;
+}
+
+.article-description-page {
+    line-height: 1.1em;
+    font-size: 18px;
+    margin-bottom: 80px;
+}
+
+#signup-button-homepage {
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+    width: 700px;
+    margin-top: -30px;
+    margin-bottom: -20px;
 }
