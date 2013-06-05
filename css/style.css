@@ -34,7 +34,7 @@ table {
     border-spacing: 0
 }
 
-.full-width, .logo, section.articles, section.social, section.top div.inner-wrap, section.quotes div.inner-wrap, section.faq, section.big-press, footer div.wrap, body a.home, body.media section.articles {
+.full-width, .logo, section.articles, section.articles-page, section.social, section.top div.inner-wrap, section.quotes div.inner-wrap, section.faq, section.big-press, footer div.wrap, body a.home, body.media section.articles {
     margin-left: auto;
     margin-right: auto;
     width: 700px
@@ -486,6 +486,11 @@ body.media section.articles ul li span {
 section.articles {
     margin-bottom: 100px;
     margin-top: 150px;
+    float: inherit;
+}
+
+section.articles-page {
+    margin-bottom: 100px;
     float: inherit;
 }
 
