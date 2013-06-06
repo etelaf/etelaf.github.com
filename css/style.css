@@ -545,3 +545,18 @@ div.article-description-page p {
     margin-top: -30px;
     margin-bottom: -20px;
 }
+
+div.step {
+    background: #5f8d52;
+    border-radius: 2.8em;
+    -moz-border-radius: 2.8em;
+    -webkit-border-radius: 2.8em;
+    color: #ffffff;
+    display: inline-block;
+    font-weight: bold;
+    line-height: 1.9em;
+    margin-top: 115px;
+    text-align: center;
+    width: 2em;
+    font-size: 110px;
+}
